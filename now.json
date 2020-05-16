@@ -2,12 +2,8 @@
   "version": 1,
   "builds": [
     {
-     
-      
-    },
-    {
-      "src": "home.html"
-      
+      "src": "home.html",
+      "use": "@now/static"
     }
   ]
 }
